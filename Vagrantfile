@@ -20,7 +20,6 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
     (ip = /inet addr:(\d+\.\d+\.\d+\.\d+)/.match(result)) && ip[1]
   end
 
-
   config.vm.provider "virtualbox" do |v|
     v.memory = 512
   end

@@ -5,15 +5,21 @@ apt-get update
 
 apt-get install -y git
 
-apt-get update
-apt-get install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev python-software-properties
+#install node
+curl -sL https://deb.nodesource.com/setup | sudo bash -
+sudo apt-get install -y nodejs
 
-#install ruby from source
+#install ruby -> https://gorails.com/deploy/ubuntu/14.04
 cd
-wget http://ftp.ruby-lang.org/pub/ruby/2.1/ruby-2.1.3.tar.gz
-tar -xzvf ruby-2.1.3.tar.gz
-cd ruby-2.1.3/
-./configure
-make
-sudo make install
+git clone git://github.com/sstephenson/rbenv.git .rbenv
+echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
+echo 'eval "$(rbenv init -)"' >> ~/.bashrc
+exec $SHELL
+
+git clone git://github.com/sstephenson/ruby-build.git ~/.rbenv/plugins/ruby-build
+echo 'export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"' >> ~/.bashrc
+exec $SHELL
+
+rbenv install 2.1.3
+rbenv global 2.1.3
 ruby -v

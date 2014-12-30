@@ -3,7 +3,7 @@ title: Luis Carlos Chavarría - Full Stack Developer - Freelancer PHP/Ruby/Node.
 email: luiscarlos@sourcequarter.com
 description: > # this means to ignore newlines until "baseurl:"
   I'm a software developer based in Costa Rica.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/sourcequarter-lander" # the subpath of your site, e.g. /blog/
 url: "http://sourcequarter.test:4000/" # the base hostname & protocol for your site
 twitter_username: luiscarlosch
 github_username:  lucachaco

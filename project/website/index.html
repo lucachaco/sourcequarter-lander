@@ -4,20 +4,23 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+    <div style="text-align: center;">
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <div style="border: 3px solid black; width: 300px;">
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+            <div>
+                Luis Carlos Chavarría
+            </div>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+            <div>
+                Full Stack Developer
+            </div>
+            <div>
+                Freelancer
+            </div>
+        </div>
+
+    </div>
+
 
 </div>

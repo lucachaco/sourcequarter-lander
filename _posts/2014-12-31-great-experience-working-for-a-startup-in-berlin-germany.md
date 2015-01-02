@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Great experience working for a startup in berlin germany"
+title:  "Great experience working for a startup in Berlin, Germany"
 date:   2014-12-31 09:51:00
 categories: experience
 ---

@@ -14,3 +14,6 @@ Soon, I will be expanding this post but first I will share these really good lin
 
 <a href="http://www.javascriptkit.com/javatutors/closures.shtml" target="_blank">Javascript Closures</a>
 
+<a href="http://aspiringcraftsman.com/series/solid-javascript/" target="_blank">SOLID JavaScript</a>
+
+

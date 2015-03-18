@@ -16,4 +16,6 @@ Soon, I will be expanding this post but first I will share these really good lin
 
 <a href="http://aspiringcraftsman.com/series/solid-javascript/" target="_blank">SOLID JavaScript</a>
 
+https://www.codeschool.com/courses/discover-devtools
+
 

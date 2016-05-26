@@ -39,12 +39,20 @@ Posibles estrategias: primeras etapas como análisis será inhouse pero la imple
 El costo en el charter es generalmente estre rangos y aquí (en la planeación) es mas detallado y desglozado. 
 Modelar comunicaciones: como se escalan las decisiones.
 
-##Planes típicos en un proyecto
-###Plan general del proyecto
-###Plan de migración de información
-### Plan de instalaciǿn
-### Plan de calidad
+Sin plan no existe el control.
 
+
+##Planes típicos en un proyecto
+-Plan general del proyecto
+-Plan de migración de información
+-Plan de instalaciǿn
+-Plan de calidad
+
+##Barreras contra la planificación
+-Razones culturales:Filosofía de comida rápida, Planificación hacia atrás
+-Razones de conocimiento: desconocer herramientas de AP, poca inversión en capacitación
+-Razones organizacionales: Tipo de industria, cantidad de recursos disponibles.No exise figuras de AP
+-Otras excusas: Falta de tiempo, loscambios no dejan planear
 
 
 

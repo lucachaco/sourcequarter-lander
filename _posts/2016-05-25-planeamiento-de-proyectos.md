@@ -54,8 +54,7 @@ Sin plan no existe el control.
 -Razones organizacionales: Tipo de industria, cantidad de recursos disponibles.No exise figuras de AP
 -Otras excusas: Falta de tiempo, loscambios no dejan planear
 
-
-
+Cuando se entregan planes anteriores con solo cambios de título y fechas sin realmente hacerse es cuando la gente empieza a crear que los planes son desperdicio de dinero.
 
 
 

@@ -56,6 +56,8 @@ Sin plan no existe el control.
 
 Cuando se entregan planes anteriores con solo cambios de título y fechas sin realmente hacerse es cuando la gente empieza a crear que los planes son desperdicio de dinero.
 
+Para general valor con plan hay que hacer una presentación días después para hacer un tipo examen para haber si se entiende. Esto ayuda para oficializarlo. Si el plan se hace pero no se comunica o se oculta pierde mucho valor.
+El plan tiene que ser una guía, no una camisa de fuerza.
 
 
 

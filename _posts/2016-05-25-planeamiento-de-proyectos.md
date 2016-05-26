@@ -32,6 +32,11 @@ Que debe lograrse, como sé cuando se termina el proyecto.
 Esquema general de como se deben realizar las trares, quién debe realizar cada tarea y cuando.
 Que se requiere en cada actividad.
 
+### El proceso de planeación
+Herramientas, restricciones, experiencias internas o externas,especificar entorno, condiciones de entorno, pensamientos  creativos.
+
+Posibles estrategias: primeras etapas como análisis será inhouse pero la implementación será por outsourcing. Hacerlo incremental. Como es la mejor manera de solucionar el problema.
+El costo en el charter es generalmente estre rangos y aquí (en la planeación) es mas detallado y desglozado. 
 
 
 

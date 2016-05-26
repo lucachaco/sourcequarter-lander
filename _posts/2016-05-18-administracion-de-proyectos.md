@@ -1,3 +1,5 @@
+Primer paso es el dimensionamiento 
+
 ---
 Viabilidad de costos o de valor
 

@@ -37,6 +37,13 @@ Herramientas, restricciones, experiencias internas o externas,especificar entorn
 
 Posibles estrategias: primeras etapas como análisis será inhouse pero la implementación será por outsourcing. Hacerlo incremental. Como es la mejor manera de solucionar el problema.
 El costo en el charter es generalmente estre rangos y aquí (en la planeación) es mas detallado y desglozado. 
+Modelar comunicaciones: como se escalan las decisiones.
+
+##Planes típicos en un proyecto
+###Plan general del proyecto
+###Plan de migración de información
+### Plan de instalaciǿn
+### Plan de calidad
 
 
 

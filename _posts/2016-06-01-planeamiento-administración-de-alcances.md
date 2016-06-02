@@ -49,6 +49,28 @@ Un componente puede responder a diferentes requerimientos de diferentes dueños 
 Objetivo: refiniamiento de los entregables y alcance del proyecto que permita generar estimaciones confiables.
 
 WBS
+Descripción jerárquica del trabajo que debe ser realizado.
+
+Ejercicio
+
+
+                                                  Diseño Físico Sistema Comercial
+                                                  
+UI                                    Estrategia       Aprobaciones                                     Gestión de Proyecto
+Base de dato                           Entrevista       Aprobaciones de usuario                         Plan Detallado (gant)
+Interfaz                                           Aprobaciones técnicas diseño por comited tecniio     Refinamiento de docu 
+                                                   Aprobaciioens de estrategia                          Minutas  
+                                                                                                        Informes de avances
+                                                                            Cronograma                  Doc cierre (metricas)
+                        
+
+
+Especificación de QA criteros
+                          
+                          
+
+
+
 Hacer componentes gráfico
 Ejemplo: Rack de bicis? ah eso no está en ningún componente.
 

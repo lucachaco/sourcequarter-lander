@@ -19,7 +19,34 @@ Salidas: Especificaciǿn de requerimientos, Documentos de trazabilidad del produ
 
 Herramientas:entrevistas, observación del cambo y revisin documental, metodología de recopilación, prototipos y Benchmarking, focus grups, cuestionarios y encuestas.
 
+Preocupaciones del AP en esta etapa:
+* Contar con y respetar la metodologría
+* Escuchar y guiar al usuario.
+* Ser exhaustivo y exigente con el detalle.
+* La validación y verificación son indispensable. Enviar al usuario los acuerdos.
+* Utilizar técnicas complemetarias para dar mayor certeza.
+* Correcta selección de responsables.
+* Aplicar el critero de aportación de valor.
+
 ###Definiciónde alcance
-###Creación de la estructura de desglose
+Objetivo: Desarrolllar una descripciǿn precisa del alcance del produco y del proyecto.
+Esto implica: Análisis y descomposición del producto solicitado en sus entregables.
+
+Características de la especificación
+Clara, concisa, y precisa.
+En Lengua Usuario.
+Identificable, referenciable y trazable.
+Gráfica por preferencia.
+Organizada de lo general a lo específico.
+Completa en los alcaces de pactados.
+
+Requerimientos -> Especificaciones -> Componentes -> Test cases
+Puedo saber a que requerimientos responden los componentes. 
+Un componente puede responder a diferentes requerimientos de diferentes dueños ayuda a coordinar y comunicar si se va a tocar un componente.
+
+
+###Creación de la estructura de desglose del trabajo
+Objetivo: refiniamiento de los entregables y alcance del proyecto que permita generar estimaciones confiables.
+
 ###Verificación del alcance
 ###Control del alcance: Establecer pauta para gestionar cambio de alcance.

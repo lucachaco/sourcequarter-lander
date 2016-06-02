@@ -48,5 +48,9 @@ Un componente puede responder a diferentes requerimientos de diferentes dueños 
 ###Creación de la estructura de desglose del trabajo
 Objetivo: refiniamiento de los entregables y alcance del proyecto que permita generar estimaciones confiables.
 
+WBS
+Hacer componentes gráfico
+Ejemplo: Rack de bicis? ah eso no está en ningún componente.
+
 ###Verificación del alcance
 ###Control del alcance: Establecer pauta para gestionar cambio de alcance.

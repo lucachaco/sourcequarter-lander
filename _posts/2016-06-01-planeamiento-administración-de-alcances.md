@@ -13,11 +13,11 @@ Objetivo: Que el proyecto considere única y completamente los alcances necesari
 ##Procesos de la Adm de Alcances
 ### Recopilaciónde requerimientos
 Objetivos: definir expectativas
-Entradas: Charter del proyecto, inventario de stakeholder, pla estratégico organizacional
+Entradas: Charter del proyecto, inventario de stakeholder, plan estratégico organizacional
 
 Salidas: Especificaciǿn de requerimientos, Documentos de trazabilidad del producto, plan de manejo de requerimientos, manejo del cambio, escalabilidad
 
-Herramientas:entrevistas, observación del cambo y revisin documental
+Herramientas:entrevistas, observación del cambo y revisin documental, metodología de recopilación, prototipos y Benchmarking, focus grups, cuestionarios y encuestas.
 
 ###Definiciónde alcance
 ###Creación de la estructura de desglose

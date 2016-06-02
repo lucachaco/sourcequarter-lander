@@ -57,7 +57,7 @@ Ejercicio
                                                   Diseño Físico Sistema Comercial
                                                   
 UI                                    Estrategia       Aprobaciones                                     Gestión de Proyecto
-Base de dato                           Entrevista       Aprobaciones de usuario                         Plan Detallado (gant)
+Base de dato (entidades, normalizacion)Entrevista       Aprobaciones de usuario                         Plan Detallado (gant)
 Interfaz                                           Aprobaciones técnicas diseño por comited tecniio     Refinamiento de docu 
                                                    Aprobaciioens de estrategia                          Minutas  
                                                                                                         Informes de avances
@@ -67,7 +67,8 @@ Interfaz                                           Aprobaciones técnicas diseñ
 
 Especificación de QA criteros
                           
-                          
+el WBS sirve para mostrar todo lo que se va a entregar. Sirve para comunicar con el cliente o genter interna.
+
 
 
 

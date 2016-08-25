@@ -5,12 +5,12 @@ El cumplimiento de esta área de conocimiento es el critero más común en la me
 
 Procesos:
 - Gestión del cronograma
-    -- Niveles de exactitud de las estimaciones 
-    -- Unidades de medida
-    -- Pautas para actualizar el cronograma: versionameinto puede ser por etapa, refinamiento mensual, es importante para mantener el cronograme relevante y válido.
-    -- Reglas de desviación
-    -- Reglas para control de avance y líneas base
-    -- Formas de reporte del cronograma.
+    - Niveles de exactitud de las estimaciones 
+    - Unidades de medida
+    - Pautas para actualizar el cronograma: versionameinto puede ser por etapa, refinamiento mensual, es importante para mantener el cronograme relevante y válido.
+    - Reglas de desviación
+    - Reglas para control de avance y líneas base
+    - Formas de reporte del cronograma.
 
 - Definir actividades
   -- Objetivo: Identificar actividades, implica la definir terminología fase, etapa, tarea, actividad y labor

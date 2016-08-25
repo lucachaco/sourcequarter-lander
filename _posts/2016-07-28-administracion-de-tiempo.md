@@ -19,7 +19,7 @@ Procesos:
     - Posibles herramientas, diagramas de precediencias (PDM), Diagramas condiconales, plantillas de proyecos, diagramas de Ganttpuros
     - Toda actividad debe tener al menos un precesor y un sucesor.
     - Es mejor optimizar con diagramas de red en lugar de gantt.
-    - Conceptos relacionados: PERT (Programa Evualuation and Review Technique)
+    - Conceptos relacionados: PERT (Programa Evualuation and Review Technique), Gráfico de Gantt (Permite reflear el paralelismo)
 - Estimiar recursos de actividades
 - Estimar duración de actividades (no usar solo un método)
 - Crear cronograma del proyecto

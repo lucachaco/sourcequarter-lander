@@ -21,7 +21,10 @@ Procesos:
     - Es mejor optimizar con diagramas de red en lugar de gantt.
     - Conceptos relacionados: PERT (Programa Evualuation and Review Technique), Gráfico de Gantt (Permite reflear el paralelismo)
     - Estrategia al relacionar actividades: testing al mismo tiempo de la progra vs testing al final de la progra.
-- Estimiar recursos de actividades
+- Estimiar recursos por actividades
+    - Estimar recursos materiales y humanos
+    - La estimación de recursos es clave para la cuantificación de costos del proyecto
+    - Posibles herramientas: matrices de recurso vrs actividades, análisis de alternativas, métricas de uso y productividad, juicio experto (método delphi), métodos estadísticos.
 - Estimar duración de actividades (no usar solo un método)
 - Crear cronograma del proyecto
 - Controlar avance y ejecución

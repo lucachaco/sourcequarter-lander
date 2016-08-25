@@ -15,11 +15,12 @@ Procesos:
 - Definir actividades
   - Objetivo: Identificar actividades, implica la definir terminología fase, etapa, tarea, actividad y labor
     - Herramientas: WBS, SBS, listas de verificación, sesiones de lluvia de idea, juicio experto, Joint Projecet Planning
-- Relaciona actividades
+- Relacionar actividades
     - Posibles herramientas, diagramas de precediencias (PDM), Diagramas condiconales, plantillas de proyecos, diagramas de Ganttpuros
     - Toda actividad debe tener al menos un precesor y un sucesor.
     - Es mejor optimizar con diagramas de red en lugar de gantt.
     - Conceptos relacionados: PERT (Programa Evualuation and Review Technique), Gráfico de Gantt (Permite reflear el paralelismo)
+    - Estrategia al relacionar actividades: testing al mismo tiempo de la progra vs testing al final de la progra.
 - Estimiar recursos de actividades
 - Estimar duración de actividades (no usar solo un método)
 - Crear cronograma del proyecto

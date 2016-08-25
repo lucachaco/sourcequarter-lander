@@ -26,5 +26,8 @@ Procesos:
     - La estimación de recursos es clave para la cuantificación de costos del proyecto
     - Posibles herramientas: matrices de recurso vrs actividades, análisis de alternativas, métricas de uso y productividad, juicio experto (método delphi), métodos estadísticos.
 - Estimar duración de actividades (no usar solo un método)
+    - Estimar el esfuerzo requerido para cada actividad en función de los alcances característicos de la actividad y recursos requeridos. 
+    - Posibles herramientas: Métodos algorítmicos de estimación (cocomo, puntos de función, psm, estimación lineal, oker)
+    - Uso y comparación de métricas, juicio experto
 - Crear cronograma del proyecto
 - Controlar avance y ejecución

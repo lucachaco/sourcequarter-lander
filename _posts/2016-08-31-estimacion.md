@@ -24,3 +24,5 @@ Alcance convertido en actividades, métricas históricas, elementos cualitativos
 
 The most important is to give estimation in ranges and not exacts.
 
+Modelo Van Solegen y Berghout -> para crear métricas
+

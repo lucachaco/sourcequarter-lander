@@ -15,7 +15,7 @@ Ejemplo con objetivo de bajar retrabajo, pregunta es cuanto es el retrabajo y la
 
 https://github.com/lucachaco/sourcequarter-lander/blob/gh-pages/_posts/IMG_20160907_190103.jpg
 
-## Ejemplo método lineal (estimación)
+## Ejemplo método lineal (estimación) Richard D. Stutzke
 Tabla verde: elementos, size unit, índice de productividad (2 horas por página)
  
 ##Notas de métricas 

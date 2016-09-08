@@ -2,6 +2,7 @@
 
 
 #Estimaciones (esto tiene su propias entradas)
+Nunca usar solo un método.
 
 #Métricas
   - Realidad convertida en datos
@@ -15,8 +16,16 @@ Ejemplo con objetivo de bajar retrabajo, pregunta es cuanto es el retrabajo y la
 
 https://github.com/lucachaco/sourcequarter-lander/blob/gh-pages/_posts/IMG_20160907_190103.jpg
 
-## Ejemplo método lineal (estimación) Richard D. Stutzke
+## Método lineal (estimación) Richard D. Stutzke
 Tabla verde: elementos, size unit, índice de productividad (2 horas por página)
+
+
+## Método Delphi
+  - Se preparan especificaciones (una primera verisión del WS)
+  - Se eligen de 3 a 5 expertos
+  - Cada experto realiza estimaciones por separado (formato preestablecido)
+  - Se comparan estimaciones para obtener punto de divergencia
+  - En caso de divergencia, se reúnen los expertos.
  
 ##Notas de métricas 
   - El problema de las métricas es que no se dan resultados a los involucrados (especialmente a los que recojen esas métricas). 

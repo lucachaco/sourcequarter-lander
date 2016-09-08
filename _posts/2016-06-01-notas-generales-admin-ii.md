@@ -14,6 +14,9 @@ Plantear objetivo, hacer preguntas, metricas y hacer acciones.
 Ejemplo con objetivo de bajar retrabajo, pregunta es cuanto es el retrabajo y las metricas se calcula definiendo la unida de trabajo que puede ser los requerimientos por ejemplo.
 
 https://github.com/lucachaco/sourcequarter-lander/blob/gh-pages/_posts/IMG_20160907_190103.jpg
+
+## Ejemplo método lineal (estimación)
+Tabla verde: elementos, size unit, índice de productividad (2 horas por página)
  
 ##Notas de métricas 
   - El problema de las métricas es que no se dan resultados a los involucrados (especialmente a los que recojen esas métricas). 

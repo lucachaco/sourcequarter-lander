@@ -26,7 +26,11 @@ Tabla verde: elementos, size unit, índice de productividad (2 horas por página
   - Cada experto realiza estimaciones por separado (formato preestablecido)
   - Se comparan estimaciones para obtener punto de divergencia
   - En caso de divergencia, se reúnen los expertos.
+  - Se usa en planes estratégicos
  
+
+
+
 ##Notas de métricas 
   - El problema de las métricas es que no se dan resultados a los involucrados (especialmente a los que recojen esas métricas). 
   - Las métricas no se debería confundir con medición de desempeño porque se pueden manipular.

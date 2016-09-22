@@ -27,6 +27,13 @@ Tabla verde: elementos, size unit, índice de productividad (2 horas por página
   - Se comparan estimaciones para obtener punto de divergencia
   - En caso de divergencia, se reúnen los expertos.
   - Se usa en planes estratégicos
+  
+## Método COCOMO
+No muy popular
+
+## Método de Puntos de Función
+  - Se basa en localizar las funcionalidades del software por desarrollar.
+  - Su fortaleza está en su independencia de plataforma.
  
 
 

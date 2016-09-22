@@ -38,12 +38,16 @@ Tabla verde: elementos, size unit, índice de productividad (2 horas por página
   - 
   
 
-
-  
+Notas de los capítulos:
+Buscar referentes. Ejemplo: Gestion de conocimiento es tanaka, Liderazgo: freud
+Hilo conductor con coherencia
 
 Para ensayo:
 tipos: proyectos cortos, proyecto ágiles,
 Innovación con métricas.
 Temor a fracasar es lo que evita innovar
 Proceso de cambio cultural.
+
+
+
   

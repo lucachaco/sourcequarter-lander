@@ -55,6 +55,14 @@ Innovación con métricas.
 Temor a fracasar es lo que evita innovar
 Proceso de cambio cultural.
 
+## Poker Planning
+
+## PERT
+Se estima el mejor de los caso y peor de los casos.
+
+##Consideraciones de Estimación
+- Estadísticas indican enfoque en labores entre 50% y65% (beck and crane)
+
 
 
   

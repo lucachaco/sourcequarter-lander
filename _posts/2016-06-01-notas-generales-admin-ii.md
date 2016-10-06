@@ -63,6 +63,12 @@ Se estima el mejor de los caso y peor de los casos.
 ##Consideraciones de Estimación
 - Estadísticas indican enfoque en labores entre 50% y65% (beck and crane)
 
+#Planeamiento de Costos
+
+## 1-Estimar Costos
+  - Por lo general buscar plantilla
+  - A tomar en cuenta: nivel de precisión, unidades de medida, desviación a considerar, reglas organizacionales, tendencias del entorno, opciones disponibles para cada actividad.
+
 
 
   

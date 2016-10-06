@@ -69,6 +69,16 @@ Se estima el mejor de los caso y peor de los casos.
   - Por lo general buscar plantilla
   - A tomar en cuenta: nivel de precisión, unidades de medida, desviación a considerar, reglas organizacionales, tendencias del entorno, opciones disponibles para cada actividad.
 
+## 2-Presupuestar
+  - Obtener una estimaciǿn precisa de los costos del proyecto a lo largo del tiempo.
+  - Posibles herramientas: comparaciǿn histórica entre proyectos, por juicio experto, costeo basado en actividades, modelos parametrizados.
+  - Proyecto:una hoja por etapa, una fila de parametros (costo), columnas por roles.
+  Cuanto me cuesta infrastructura, cuanto me cuesta recurso humano. Poner gráfico.
+  Detallar bien el rubro de recursos humanos, en infraestructura solo: agua, luz internet, edificio
+  
+  
+  
+  Ensayo dos: el reto de administrar diferentes generaciones
 
 
   

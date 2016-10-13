@@ -80,5 +80,11 @@ Se estima el mejor de los caso y peor de los casos.
   
   Ensayo dos: el reto de administrar diferentes generaciones
 
+## - Planeación de las comunicación
+
+## - Administración de Riesgos
+
+
+
 
   

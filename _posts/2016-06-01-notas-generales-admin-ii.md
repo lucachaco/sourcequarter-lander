@@ -112,6 +112,16 @@ Segundo ensayo: Trabajar con gente mezclada, antes era equida de genero. Buscar 
 
 quinta investigación: gestión del cambio humano, cambio organizacional. Perspectiva de proyectos.
 
+4. Plan de respuesta al riesgo.
+  - Posibles orientaciones:
+    - Evitar incurrir en el riesgo.
+    - Transferir el riesgo.
+    - Compartir el reisgo.
+    - Mitigar el riesgo
+    - Mitigar el riesgo.
+      - Diminuir probabilidad
+      - Disminuir impacto
+
 
 
   

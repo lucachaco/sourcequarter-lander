@@ -86,12 +86,21 @@ Se estima el mejor de los caso y peor de los casos.
 
 ###Cuándo un riesgo debe ser tomado?
 
+##Componentes del Riesgo
+R = { (Ei, Pi, Ci) } - escenario - probablidad - Consecuenca
 
 
+##Proceso de Adm. del riesgo (PMI)
+Pleneación de adm del riesgo -> identificaciǿn de riesgos-> valoraciǿn cualitativas y cuantitativsa-> planeación de respuesta al riesgo-> monitoreo y control del riesgo > plneaaciǿn del respueda del riesgo
 
-
-
-
+###Para cada riesgo seleccionado:
+Nombre del riesgo.
+Descripción y clasificación del riesgo.
+Consecuencias
+Valoración del impacto.
+Valoración de la probabilidad.
+Indicadores de activación (síntomas)
+Nivel de urgencia
 
 
 

@@ -95,7 +95,7 @@ Se estima el mejor de los caso y peor de los casos.
 
 
 
-
+#notas sobre entregas
 
 cuarto investigación: pensamiento crítico aplicado a administración de proyectos
 

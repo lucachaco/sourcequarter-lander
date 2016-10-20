@@ -84,7 +84,24 @@ Se estima el mejor de los caso y peor de los casos.
 
 ## - Administración de Riesgos
 
+###Cuándo un riesgo debe ser tomado?
 
+
+
+
+
+
+
+
+
+
+
+
+cuarto investigación: pensamiento crítico aplicado a administración de proyectos
+
+Segundo ensayo: Trabajar con gente mezclada, antes era equida de genero. Buscar algunas referencias.
+
+quinta investigación: gestión del cambio humano, cambio organizacional. Perspectiva de proyectos.
 
 
   

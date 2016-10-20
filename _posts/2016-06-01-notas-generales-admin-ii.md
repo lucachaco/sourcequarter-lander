@@ -113,4 +113,5 @@ Segundo ensayo: Trabajar con gente mezclada, antes era equida de genero. Buscar 
 quinta investigación: gestión del cambio humano, cambio organizacional. Perspectiva de proyectos.
 
 
+
   

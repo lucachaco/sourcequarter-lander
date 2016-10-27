@@ -143,3 +143,21 @@ Para el 13 de noviembre.
 3. 
 No construir? rentor, alianza?
 Lista de como vamos a enfrentar? que acciones y estrategias?
+
+
+###Procesos de Ejecución y Control
+Medir progreso por tareas concluidas. No con corazonadas.
+
+## Herramientas de control
+
+Implementar control de cambios. Qué no entren cambios por dentro.
+
+- Informes de avance.
+- Comunicación activa y reuniones efectivas.
+- Inspección y auditorías.
+- Control de Cambios
+- Ubicación de puntos de control.
+- Medicición del logro real.
+- Elementos conductuaels
+
+

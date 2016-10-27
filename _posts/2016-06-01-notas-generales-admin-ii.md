@@ -121,7 +121,24 @@ quinta investigación: gestión del cambio humano, cambio organizacional. Perspe
     - Mitigar el riesgo.
       - Diminuir probabilidad
       - Disminuir impacto
+      
+5. Monitorio y control del riesgo
+  - Posibles herramientas: auditorías, sesiones de seguimiento a riegos, evaluaciones en puntos de control,
 
+Usar la teoría de los 6 sombreros de colores.
 
+#Caso de Riesgos
+Objetivos
+1: Identificar escenario (sombrero negro) Identificarlo bien, entre más específico mejor.
+Dificultad para obtener soporte de qué? ser específico
 
-  
+Ubicarse al inicio del proyecto.
+
+2.poco probable, no probable, etc
+Para el 13 de noviembre.
+
+3. Vamos a transferiro? Vamos mitigarlo? comó vamos a mitigarlo
+
+3. 
+No construir? rentor, alianza?
+Lista de como vamos a enfrentar? que acciones y estrategias?

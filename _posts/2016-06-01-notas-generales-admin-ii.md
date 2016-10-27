@@ -111,6 +111,7 @@ cuarto investigación: pensamiento crítico aplicado a administración de proyec
 Segundo ensayo: Trabajar con gente mezclada, antes era equida de genero. Buscar algunas referencias.
 
 quinta investigación: gestión del cambio humano, cambio organizacional. Perspectiva de proyectos.
+Las etapas que las personas enfrentan en cambios y como manejarlos.
 
 4. Plan de respuesta al riesgo.
   - Posibles orientaciones:

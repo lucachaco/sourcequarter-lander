@@ -133,7 +133,7 @@ Objetivos
 1: Identificar escenario (sombrero negro) Identificarlo bien, entre más específico mejor.
 Dificultad para obtener soporte de qué? ser específico
 
-Ubicarse al inicio del proyecto.
+Ubicarse al inicio del proyecto.x
 
 2.poco probable, no probable, etc
 Para el 13 de noviembre.
@@ -159,5 +159,14 @@ Implementar control de cambios. Qué no entren cambios por dentro.
 - Ubicación de puntos de control.
 - Medicición del logro real.
 - Elementos conductuaels
+
+Recomendaciones finales para control de cambios: establecer procesos desde el principio.
+
+##RRHH
+Clave para construir equipos y no grupos de alto desempeño. CONFIANZA, generarar un ambiente de confianza.
+
+##Negociación
+Aprender los intereses reales. No partir la naraja en la mitad. Las dos pueden querer la naranja para cosas diferentes.
+
 
 

@@ -169,4 +169,22 @@ Clave para construir equipos y no grupos de alto desempeño. CONFIANZA, generara
 Aprender los intereses reales. No partir la naraja en la mitad. Las dos pueden querer la naranja para cosas diferentes.
 
 
+##Recomendaciones
+
+Hacer business cases: demostrar retorno de inversión
+Para el proyecto: solo un pequeño business case: carátula con resumen de los beneficios, costo total, y plan de trabajo de alto nivel, los riesgos mayoeres
+
+Primera parte es el Roadmap: de alto nivel:poner nombre de los proyectos, no a nivel de gang
+
+##Change management
+En el proyecto poner una estrategia para gestionar el cambio organizacional.
+Autora de cambio organizacional -> Reich y otro es Avas
+Gestión del cambio: entrenamiento, reforzamiento, campañas de concientización.
+
+Dar bonos de retención para los que se van a ser despedidos y se ocupan. Se pueden dar cursos también.
+
+
+Ignorar esto es un de los erroeres más comunes
+
+Un business case para cada proyecto.
 

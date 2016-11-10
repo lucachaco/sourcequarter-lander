@@ -188,3 +188,16 @@ Ignorar esto es un de los erroeres más comunes
 
 Un business case para cada proyecto.
 
+
+
+##Control
+Gráfico de unidad de logro puedo ser bueno activo en informe de avance. (parecido al born down rate)
+
+Cómo disminuir plazos?
+Concepot de Fast-Tracking.
+Hacer uso del mayor paralelistmo posible.
+
+Control de ejecución de costos
+
+Gráfico de Valor ganado también tiene buen valor en avance de progreso. El gráfico de tres lineas (valor ganado, presupuesto, y lo gastado)
+

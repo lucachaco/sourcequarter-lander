@@ -34,6 +34,8 @@ No muy popular
 ## Método de Puntos de Función
   - Se basa en localizar las funcionalidades del software por desarrollar.
   - Su fortaleza está en su independencia de plataforma.
+  
+  
  
 
 

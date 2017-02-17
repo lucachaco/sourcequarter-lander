@@ -7,18 +7,24 @@ Principio contrato-realidad
 
 Derecho de Autor: 
 
-Notas
-Las ideas sí se pueden copiar. 
-En costa rica el software se protege con medio de derechos de autor y en EEUU con medio de patentes.
 
 Para el 18 propuesta de tema. Administración de Proyecto.
 de 15 a 20
 
 
-Proyecto, 
+#Proyecto, 
 Escenario -> inhouse, en la nube.
 Tiene que tener desarrollo de software y adquisión de la nube.
 
+#Artículo: 
+Tendencias en el mercado de Outsourcing (garnier)
+
+
+
+#Notas
+Las ideas sí se pueden copiar. 
+
+En costa rica el software se protege con medio de derechos de autor y en EEUU con medio de patentes.
 
 Privado: Principio de autonomía (lo que quiera)
 

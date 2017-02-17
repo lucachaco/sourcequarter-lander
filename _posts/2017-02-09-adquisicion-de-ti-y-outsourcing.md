@@ -8,8 +8,9 @@ de 15 a 20
 
 
 #Proyecto, 
-Escenario -> inhouse, en la nube.
-Tiene que tener desarrollo de software y adquisión de la nube.
+- Escenario de ejemplo-> inhouse, en la nube.
+- Tener en cuenta los costos de entrada y costos de entrada.
+- Tiene que tener desarrollo de software y adquisión de la nube.
 
 #Artículo: 
 Tendencias en el mercado de Outsourcing (garnier)
@@ -17,7 +18,7 @@ Tendencias en el mercado de Outsourcing (garnier)
 
 
 #Notas
-Derecho de Autor: Las ideas sí se pueden copiar. 
+Derecho de Autor: Las ideas sí se pueden copiar. En CR se rige en favor al autor.
 
 En costa rica el software se protege con medio de derechos de autor y en EEUU con medio de patentes.
 

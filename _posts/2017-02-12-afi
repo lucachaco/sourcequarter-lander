@@ -117,13 +117,24 @@ Framework vs metologa
 Cadena de Valor para IT
 
 
-#ITIL
+#ITIL: buenas prácticas
+#COBIT 5: mas esquemátizados como las listas.
 
-#COBIT 5
 ##Governance
 ##Management
 #TOGAF: para arquitectura empresarial
 
 Tarea buscar diferencia entre Governance (estrategia) Management (táctico).
 
+
+#Clase Abril 4 - 2017
+Algunas información sobre el caso Halamka.
+Primer proceso a mejorar propuesto por el profe:
+Gestión de Cambios -> Quién autoriza? Incluye Análisis de Riesgos -> CAB (Change approval Board)
+Continuidad -> Comité de emergencia tuve que formarse 10 horas después, no 3 días despues. Llamar a CISCO.
+Disponibilidad -> Redundancia
+
+Caso 3 (domingo 3): Tomando 3 procesos (riesgos, disponiblidad, continuidad, configuracion, cambios) cual sería el plan de ruta.
+EJ: Al director de operación vamos a darle los procesos. Definir roles, quien va a hacer que, indicadores para medirlos, que actividades. alguna herramienta, que nos dice las buenas practicas. Quien lo va a gobernar autorizar. Quien lo gestiona (IT o empresarial).
+En continuidad de negocio (farmacia de papel lo hace el negocio) (el desastre recovery lo hace TI)
 

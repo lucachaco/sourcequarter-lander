@@ -165,8 +165,16 @@ Luego de la crisis se le pide a cada individuo responsable del centro de gastos 
 Hay dos presupuestos: El de inversión y el de gastos.
 Presupuestos de gastos: Salarios,etc.
 Presupuestos de inversión: Activos
+Presupuestos de ingresos* (costo más algo más): Este a veces cuando se venden servicios internos a unidades de negocio (pasar plata de una bolsa a la otra)
 
-Asignación de costos (costos desgrosados) vs Precios (servicios).
+Asignación de costos (allocation, costos desgrosados, distribuídos) vs Precios (servicios).
+
+Teora de asignación (allocation): Distribuir costos por número de empleados caso muy sencillo, pasarlo a diferentes cuentas. 
+Decidir bases de asignación. En help desk posibles bases podría ser dividir costos por departamento, por tiquete, por hora, etc.
+Opciones: Todo TI, por dpto dentre de ti, por servicio, por cuenta (pareto).
+
+
+
 
 
 

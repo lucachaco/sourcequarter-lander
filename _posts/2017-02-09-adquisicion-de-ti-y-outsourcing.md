@@ -143,6 +143,29 @@ Quiz la próxima semana de lectura.
 Buscar 2 clausuras que son buenas practicas y dos que pueden mejorar en contratos de TI en Merklink
 
 #april 20
+Notas para el proyecto: Usar anexos para detallar.
+Ejemplo de proyecto
+Consolidar conección del TEC.
+1. Primer paso quantificar el problema: Ofrecer el acuerdo de servicio de conectividad a lso clientes inalámbrico en un 99%. Caída aceptable de aprox. 15 mins.
+2. Traducirlo en términos de negocio. Ser creativo para el caso de negocio. Tratar de monitize la ganancia y tratar de buscar fuentes. Ponerle plata.
+3. Identificar al cliente.
+4. Visualizar soluciones
+5. Análisis financiero y de riesgos.
+Luego como pasar de una solución propuesta a una marco de requerimientos.
+Requerimientos del proveedor del serivios
+1) Empresa y 2) staff
+
+Requerimientos del producto
+1) Caractersticas y 2) Desempeño
+
+MoSCoW analysis
+
+Must have - Mandatory 100% fit.
+Should have - 80% fit
+Could have - Additional Features
+Won't have this time but would like to have in the future.
+
+En el proyecto hace analysis moscow de la empresa, staff, caractersticas y despempeño.
 
 
 

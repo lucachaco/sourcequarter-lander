@@ -167,6 +167,13 @@ Won't have this time but would like to have in the future.
 
 En el proyecto hace analysis moscow de la empresa, staff, caractersticas y despempeño.
 
+Clase 4 de mayo de 2017
+
+
+VAN: Se necesita flujo de caja, tasa de descuento, inversión inicial
+Pregunta de examen: Con tasa de descuento de 10% y me da un VAN de -1000 significa que tiene pérdidas?
+No, significa que no va a cumplir las expectativas de rentabilidad con la tasa de descuento.
+Si el VAN da 0 significa que la tasa de descuento es el TIR
 
 
 

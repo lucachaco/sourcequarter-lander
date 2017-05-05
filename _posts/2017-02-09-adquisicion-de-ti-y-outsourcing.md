@@ -182,5 +182,21 @@ Luego se licitan los módulos a diferentes empresas y ellas compiten.
 - Documentar y estandarizar
 - Fuerte diseño de software (se necesita buenos arquitectos)
 
+# Siguiente paso para el cartel.
+## Especificaciones técnicas.
+Lo que  esté en especificaciones técnicas es lo que puedo pedir. Lo que puedo pedir luego de eso es negociable (por ejemplo entregables).
+### Buena prácticas
+- Cualquier licencia que use el proveedor tiene que asumirla el proveedor y trasladarla a la organización. 
+- Qué no expire.
+- Qué cualquier conflicto sea asumido por el proveedor.
+
+### Buena prácticas
+- Términos con subjetividad:
+-
+
+
+### Aceptación de entregables
+
+
 
 

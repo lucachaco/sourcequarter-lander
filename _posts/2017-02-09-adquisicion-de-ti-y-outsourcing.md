@@ -197,6 +197,82 @@ Lo que  esté en especificaciones técnicas es lo que puedo pedir. Lo que puedo 
 
 ### Aceptación de entregables
 
+# Clase Mayo 11 del 2017
+
+Derecho moral: El código fuente fue autorado por el desarrollador. El codigo puede tener el nombre del autor. Cuando hay muchos es obra colectiva (cuando no se puede detectar el predominante).
+
+Derechos de autor:El registro no constituye derechos. El registro es solo para aspectos probatorio. El derecho es adquirido en creación. 
+Patentes: El registro constituye derechos.
+En costa rica solo hay un caso para patentar el software: cuando el hardware y software son uno solos.
+Ejemplo blockchain: Una vez se hace publico ya no se puede patentar.
+
+Licencia GPL: Todo lo que toca lo vuelve GPL.
+Leer capítulo 2 y 3 del libro del tec digital (sobre leyes).
+
+Riesgos con proveedores:
+- Derechos de autor: no me interesaron las licencias.
+- Técnicos:
+- Mercado: garantías
+
+Qué incluir en el cartel:
+Acuerdos de servicios
+Multas
+
+Presentación:
+Qué caso de negocio y como se llegó.
+Calidad Esquema de clasificación (precalificación)
 
 
+#Tendencias en adquisición de TI
+- Aumento de la dependencia hacia TI
+  - Optimizaciǿn y automatización
+- Ciclo de vida extensos (un buen gerente lo trata de iterar)
+- Cambios en participantes
+  - PostPC
+  - Responsive Design
+  - Mobile-First
+ - Variadas fifurad finaciamiento.
+  - Arrendameino operativo (leasing)
+  - Arrendamiento financiero (leasing - con opción de compra)
+  - FIdeicomos (hay tercero depositario que va a ser el dueño del bien y va buscar la plata e invertir pero va a dar el beneficio al cliente) Ejemplo: EL ICE tiene un fidecomiso en un banco para construir una represa el banco es el dueño pero el beneficio es del ICE.
+  
+- Outsourcing
+46-H-MICIT (directriz MICIT)
+SaaS (+abstracción)
+PaaS
+IaaS (- abstracción)
+
+# Principios de adquisición
+Eficiencia: Prevalece contenido sobre forma en la actividad.
+
+Eficacia: Cumplimiento de fin.
+
+Publicidad: El proceso es público: Excepto seguridades calificadas. Pruebas de seguridad de reds (Caja blanca y negra).
+No necesariamente por ser componente de seguida aplica como seguridad calificada. Solo si se ocupa esa informacin para que el proveedor pueda ofertar.
+Requisitos previos: desición inicial (estudios previos, caso de negocio). Falta de esto puede objetar carteles.
+
+## Procesos de aquisición
+- Licitación pública (luego de cierto monto, objeciones los ve la contraloría)
+- Licitación abreviada (luego de cierto monto para abajo, objeciones los ve la administración)
+- Contratación directa (oferente único, etc)
+  - Escasa cuantía 
+  - Escasa causal 
+  
+# Oferente único
+- Razones técnicos
+- Razones de propiedad intelectual (no establecí bien la transferencia de los derechos a mí)
+- Razones del negocio (garantía, si alguien más la abre se pierda la garantía, usar otros cartuchos se pierde la garantía)
+
+ ## Cartel
+ Es el reglamento. Lo que está en el carte lo puedo imponer. Lo que no está lo tengo que negociar.
+ 
+ ## Aspectos esenciales
+ No se pueden usar marcas.
+ 
+
+
+
+
+
+ 
 

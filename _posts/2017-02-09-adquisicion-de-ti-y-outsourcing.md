@@ -259,15 +259,23 @@ Requisitos previos: desición inicial (estudios previos, caso de negocio). Falta
   - Escasa causal 
   
 # Oferente único
-- Razones técnicos
+- Razones técnicos: Servidores que solo entran en un tipo de gabinetes.
 - Razones de propiedad intelectual (no establecí bien la transferencia de los derechos a mí)
-- Razones del negocio (garantía, si alguien más la abre se pierda la garantía, usar otros cartuchos se pierde la garantía)
+- Razones del negocio (garantía, si alguien más la abre se pierda la garantía, usar otros cartuchos se pierde la garantía) ejemplo los cartuchos de tinta.
 
  ## Cartel
  Es el reglamento. Lo que está en el carte lo puedo imponer. Lo que no está lo tengo que negociar.
  
  ## Aspectos esenciales
  No se pueden usar marcas.
+ 
+ # Contratación Directa (no se sacan cartel)
+ Supuestos incompatibles con el concurso.
+-- Interés manifiesto de colaborador con la Administración: Regalar el prducto para enganchar y hacer dependiente al cliente.
+-- Reparacion inderterminadas: Sistema de precalificacion, debe contarse con autorización de la CGR
+-- Seguridades calificadas:
+ 
+ 
  
 
 

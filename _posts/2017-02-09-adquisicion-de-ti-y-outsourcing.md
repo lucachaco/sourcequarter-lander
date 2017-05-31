@@ -292,9 +292,17 @@ Requisitos previos: desición inicial (estudios previos, caso de negocio). Falta
  Un enfoque para implementar componentes clave de ITIL.
 
 #Proyecto de investigación
-Escoger un marco teórico, desarrollar una metodologa.
+Escoger un marco teórico (hacer cita), desarrollar una metodologa (pasos a seguir) y resultado.
+1 Introducción: que quiero hacer
+2 Teoría (marco teórica)ej: Proponer un conjuto de indicadores para tal proceso o indicadores
+3 Pasos a seguir  (metodologa)
+4 Puede ser resultado de la implementaciones o conclusiones de la propuesta.
 
 
+Preguntas de examen: 
+Gasto vs inversión?
+Procesos de Itil y Cobit?
+Qué elementos encontramos cuando trabajamos con procesos?
 
 
 

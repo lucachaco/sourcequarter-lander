@@ -293,8 +293,8 @@ Requisitos previos: desición inicial (estudios previos, caso de negocio). Falta
 
 #Proyecto de investigación
 Escoger un marco teórico (hacer cita), desarrollar una metodologa (pasos a seguir) y resultado.
-1 Introducción: que quiero hacer
-2 Teoría (marco teórica)ej: Proponer un conjuto de indicadores para tal proceso o indicadores
+1 Introducción: que quiero hacer: ej: Proponer un conjuto de indicadores para tal proceso o indicadores
+2 Teoría (marco teórica)
 3 Pasos a seguir  (metodologa)
 4 Puede ser resultado de la implementaciones o conclusiones de la propuesta.
 

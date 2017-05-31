@@ -276,7 +276,17 @@ Requisitos previos: desición inicial (estudios previos, caso de negocio). Falta
 -- Seguridades calificadas:
  
  
+# Última clase
+- Lean IS
+- Basado en proceso (ayuda de frameworks)
+- Centros de excelencia -> Por ejemplo para atender procesos especificos.  Hacer grupos y no departamentos. Levantar tiendas de campaña mas no edificios de ladrillos
+- Outsourcing
+  - Simple: Externos
+  - Estratégicos: Inclue soucing interno y el factor principal no es financiero.
+  Qué no debería terciarizarse: Liderazgo de TI, desarrollo de la arquitectura, integración Negocio -IS y vendor management.
  
+
+
 
 
 

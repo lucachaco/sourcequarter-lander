@@ -276,34 +276,6 @@ Requisitos previos: desición inicial (estudios previos, caso de negocio). Falta
 -- Seguridades calificadas:
  
  
-# Última clase
-## IT Lite
-- Lean IS
-- Basado en proceso (ayuda de frameworks)
-- Centros de excelencia -> Por ejemplo para atender procesos especificos.  Hacer grupos y no departamentos. Levantar tiendas de campaña mas no edificios de ladrillos
-- Outsourcing
-  - Simple: Externos
-  - Estratégicos: Inclue soucing interno y el factor principal no es financiero.
-  Qué no debería terciarizarse: Liderazgo de TI, desarrollo de la arquitectura, integración Negocio -IS y vendor management.
- 
- 
- ## ITIL LITE (libro) una metodología muy buena para aplicar ITIL
- Agrupar procesos y luego seleccionar diferentes criterios. El auto da algunos
- Un enfoque para implementar componentes clave de ITIL.
-
-#Proyecto de investigación
-Escoger un marco teórico (hacer cita), desarrollar una metodologa (pasos a seguir) y resultado.
-1 Introducción: que quiero hacer: ej: Proponer un conjuto de indicadores para tal proceso o indicadores
-2 Teoría (marco teórica)
-3 Pasos a seguir  (metodologa)
-4 Puede ser resultado de la implementaciones o conclusiones de la propuesta.
-
-
-Preguntas de examen: 
-Gasto vs inversión?
-Procesos de Itil y Cobit?
-Qué elementos encontramos cuando trabajamos con procesos?
-
 
 
 
